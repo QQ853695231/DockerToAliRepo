@@ -1,1 +1,1 @@
-docker.io/mouday/domain-admin:1.6.65
+docker.io/mouday/domain-admin:v1.6.65
