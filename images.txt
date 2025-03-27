@@ -1,1 +1,1 @@
-docker.io/mouday/domain-admin:v1.6.65
+eipwork/kuboard:v4.0.0.0-rc.04
