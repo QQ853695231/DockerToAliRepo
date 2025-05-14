@@ -1,1 +1,1 @@
-allinssl/allinssl:latest
+domain-admin:v1.6.66
