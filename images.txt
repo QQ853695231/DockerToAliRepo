@@ -1,1 +1,1 @@
-domain-admin:v1.6.66
+ mouday/domain-admin:v1.6.66
