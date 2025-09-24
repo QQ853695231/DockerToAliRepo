@@ -1,1 +1,1 @@
-bitnami/zookeeper:3.4.10
+openeuler/bisheng-jdk:1.8.0-oe2203lts
