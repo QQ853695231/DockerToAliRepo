@@ -1,5 +1,1 @@
-apache/dolphinscheduler-tools:3.3.2
-apache/dolphinscheduler-api:3.3.2
-apache/dolphinscheduler-alert-server:3.3.2
-apache/dolphinscheduler-master:3.3.2
-apache/dolphinscheduler-worker:3.3.2
+--platform=linux/arm64 postgres:10.5
